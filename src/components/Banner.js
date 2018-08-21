@@ -7,9 +7,9 @@ class Banner extends Component {
         return (
             <div>
                 <Jumbotron>
-                    <h1> Fariani Sugiharto </h1>
-                    <h3> Caleg DPR RI </h3>
-                </Jumbotron>
+                    <h1> Fariani Sugiharto B.Sc., MBA </h1>
+                    <h3> Caleg DPR RI Kabupaten Kebumen, Banjarnegara, dan Purbalingga </h3>
+                </Jumbotron> 
             </div>
         );
     }
