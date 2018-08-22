@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './Profile.css'
 import { Container, Row, Col } from 'reactstrap';
+import Panel from './Panel';
 
 class Profile extends Component {
     render() {
@@ -10,12 +11,7 @@ class Profile extends Component {
                     <Row>
                         <Col>
 
-                            <div className="panel">
-                                <h2><a href="#who"> Siapa? </a></h2>
-                                <h2><a href="#vision"> Visi dan Misi </a></h2>
-                                <h2><a href="#program"> Program </a></h2>
-                                <h2><a href="#why"> Kenapa Fariani? </a></h2>
-                            </div>
+                           <Panel/>
 
                             <div id="who"> 
                                 <h2 className="title">SIAPA FARIANI SUGIHARTO ?</h2>
