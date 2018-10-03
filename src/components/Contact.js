@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
 import './Contact.css'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faFacebook, faInstagram } from '@fortawesome/free-brands-svg-icons'
+import { faSmileWink } from '@fortawesome/free-solid-svg-icons'
+
 
 class Contact extends Component {
     constructor(props){
@@ -12,9 +16,15 @@ class Contact extends Component {
     render() {
         return (
             <div className="footer">
-    
-                <a href={this.state.facebook}><img alt="facebook" className="svg" src="./contacts/facebook.svg" hspace="20"></img></a>
-                <a href={this.state.instagram}><img alt="instagram" className="svg" src="./contacts/instagram.svg"></img></a>
+
+                <div className="socmed">
+                    <a href={this.state.facebook}><FontAwesomeIcon className="font-awesome" icon={faFacebook}/> </a>
+                    <a href={this.state.instagram}><FontAwesomeIcon className="font-awesome" icon={faInstagram}/></a>
+                </div>
+
+                <span> &copy; Copyright 2018 by Cika </span>
+
+
 
             </div>
         );

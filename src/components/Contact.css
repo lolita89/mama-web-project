@@ -1,13 +1,18 @@
 .footer {
     /* position: fixed; */
+    display: inline-block;
+    padding: 40px;
     left: 0;
     bottom: 0;
     width: 100%;
     background-color: lightblue;
-    color: white;
     text-align: center;
  }
 
- .svg {
-     width: 50px;
+ .socmed {
+    word-spacing: 5px;
+ }
+
+ .font-awesome {
+     font-size: 30px;
  }

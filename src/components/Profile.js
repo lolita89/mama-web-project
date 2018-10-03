@@ -6,7 +6,7 @@ import Panel from './Panel';
 class Profile extends Component {
     render() {
         return (
-            <div>
+            <div class="profile">
                 <Container>
                     <Row>
                         <Col>
