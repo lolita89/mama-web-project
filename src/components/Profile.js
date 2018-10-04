@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Profile.css'
+import '../components/css/profile.css'
 import { Container, Row, Col } from 'reactstrap';
 import Panel from './Panel';
 

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Jumbotron } from 'react-bootstrap'
-import './Banner.css'
+import '../components/css/banner.css'
 
 class Banner extends Component {
     constructor(props){

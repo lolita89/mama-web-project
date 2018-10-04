@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './Contact.css'
+import '../components/css/contact.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFacebook, faInstagram } from '@fortawesome/free-brands-svg-icons'
 import { faSmileWink } from '@fortawesome/free-solid-svg-icons'

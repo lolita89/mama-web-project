@@ -1,0 +1,27 @@
+@import 'variables';
+
+.footer {
+    /* position: fixed; */
+    display: inline-block;
+    padding: 20px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: $color-main;
+    text-align: center;
+    color: $color-text-demokrat;
+ }
+
+ .socmed {
+    word-spacing: 5px;
+ }
+
+ .font-awesome {
+     color: $color-text-demokrat;
+     font-size: 30px;
+ }
+
+ .font-awesome:hover {
+    color: $color-secondary;
+    font-size: 30px;
+}

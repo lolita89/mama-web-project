@@ -1,0 +1,26 @@
+.footer {
+  /* position: fixed; */
+  display: inline-block;
+  padding: 20px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #01389D;
+  text-align: center;
+  color: #E1E4EB;
+}
+
+.socmed {
+  word-spacing: 5px;
+}
+
+.font-awesome {
+  color: #E1E4EB;
+  font-size: 30px;
+}
+
+.font-awesome:hover {
+  color: #47B8D6;
+  font-size: 30px;
+}
+/*# sourceMappingURL=contact.css.map */

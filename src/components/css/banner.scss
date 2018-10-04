@@ -1,0 +1,17 @@
+@import 'variables';
+
+Body {
+    font-family: 'PT Mono', monospace;
+}
+
+.jumbotron {
+    color: $color-text-demokrat;
+    background-color: $color-main;
+}
+
+.jumbotron:hover {
+    color: $color-main;
+    background-color: $color-secondary;
+    cursor: pointer;
+}
+

@@ -1,0 +1,15 @@
+Body {
+  font-family: 'PT Mono', monospace;
+}
+
+.jumbotron {
+  color: #E1E4EB;
+  background-color: #01389D;
+}
+
+.jumbotron:hover {
+  color: #01389D;
+  background-color: #47B8D6;
+  cursor: pointer;
+}
+/*# sourceMappingURL=banner.css.map */
