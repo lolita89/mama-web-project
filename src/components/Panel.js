@@ -13,7 +13,8 @@ class Panel extends Component {
             who:'Siapa Fariani?',
             vision: 'Visi dan Misi',
             program: 'Program',
-            why: 'Mengapa Fariani?' 
+            why: 'Mengapa Fariani?',
+            picture: "https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/38923568_10217936571234808_2358916718954283008_n.jpg?_nc_cat=111&oh=d450d9f4638ff386c42fae77cd48b1f3&oe=5C4C3770"
         }
     };
     render() {
@@ -51,7 +52,7 @@ class Panel extends Component {
                 </div>
 
                 <div classname="foto-container">
-                    <Image className="foto" src="https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/38923568_10217936571234808_2358916718954283008_n.jpg?_nc_cat=111&oh=d450d9f4638ff386c42fae77cd48b1f3&oe=5C4C3770" circle />
+                    <Image className="foto" src={this.state.picture} circle />
                 </div>
 
             </div>

@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import '../components/css/contact.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFacebook, faInstagram } from '@fortawesome/free-brands-svg-icons'
-import { faSmileWink } from '@fortawesome/free-solid-svg-icons'
+// import { faSmileWink } from '@fortawesome/free-solid-svg-icons'
 
 
 class Contact extends Component {
@@ -18,8 +18,8 @@ class Contact extends Component {
             <div className="footer">
 
                 <div className="socmed">
-                    <a href={this.state.facebook}><FontAwesomeIcon className="font-awesome" icon={faFacebook}/> </a>
-                    <a href={this.state.instagram}><FontAwesomeIcon className="font-awesome" icon={faInstagram}/></a>
+                    <a title="facebook" href={this.state.facebook}><FontAwesomeIcon className="font-awesome" icon={faFacebook}/> </a>
+                    <a title="instagram" href={this.state.instagram}><FontAwesomeIcon className="font-awesome" icon={faInstagram}/></a>
                 </div>
 
                 <span> &copy; Copyright 2018 by Cika </span>
