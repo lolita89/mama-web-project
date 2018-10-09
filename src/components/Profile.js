@@ -16,14 +16,12 @@ class Profile extends Component {
                             <div id="who"> 
                                 <h2 className="title">SIAPA FARIANI SUGIHARTO ?</h2>
                                     <p className="paragraph">
-                                    Fariani Sugiharto, B.Sc., MBA adalah Caleg DPR RI Nomor Urut 2 dari Partai Demokrat bernomor 14, dalam Pemilu 17 April 2019. Calon Wakil Rakyat untuk Jawa Tengah 7 yang meliputi daerah di Kabupaten Kebumen, Banjarnegara, Purbalingga.
+                                    Fariani Sugiharto, B.Sc., MBA adalah <mark>Caleg DPR RI Nomor Urut 2 dari Partai Demokrat bernomor 14</mark>, dalam Pemilu 17 April 2019. Calon Wakil Rakyat untuk Jawa Tengah 7 yang meliputi daerah Kabupaten Kebumen, Banjarnegara, Purbalingga.
                                     <br/>
                                     <br/>
-                                    Fariani berpendidikan S2 - Master of Bussiness Administration (MBA). Lulus pendidikan S1 - Sarjana program Fakultas Hukum, Ilmu Sosial dan Ilmu Politik. Lulus pendidikan D3 - Bachelor of Science program Bahasa Inggris. Banyak lagi pendidikan non - formal seperti kursus dan pelatihan yang dijalaninya.
+                                    Fariani berpendidikan S2 - Master of Bussiness Administration (MBA). Lulus pendidikan S1 - Sarjana program Fakultas Hukum, Ilmu Sosial dan Ilmu Politik. Lulus pendidikan D3 - Bachelor of Science program Bahasa Inggris. Banyak lagi pendidikan non - formal seperti kursus dan pelatihan yang dijalaninya.                                    <br/>
                                     <br/>
-                                    <br/>
-                                    Sudah 15 tahun lebih menjabat di Dewan Pimpinan Pusat - Partai Demokrat. Sebagai Wakil Bendahara Umum periode 2015 – 2020. Sebagai Sekretaris Departemen - Departemen Kesejahteraan Rakyat periode 2010 – 2015. Sebagai Wakil Sekretaris Jenderal diantara periode 2005 – 2010.
-                                    <br/>
+                                    Sudah 15 tahun lebih menjabat di Dewan Pimpinan Pusat - Partai Demokrat. Sebagai Wakil Bendahara Umum periode 2015 – 2020. Sebagai Sekretaris Departemen - Departemen Kesejahteraan Rakyat periode 2010 – 2015. Sebagai Wakil Sekretaris Jenderal diantara periode 2005 – 2010.                                    <br/>
                                     <br/>
                                     Fariani pernah menjabat sebagai Direktur dari Leadership Management International Institute dan General Director/ Franchisee/ Centre of Influence 
                                     dari Success Motivation International Institute untuk Indonesia, yang berpusat 
@@ -46,7 +44,7 @@ class Profile extends Component {
 
                                 <h2 className="title">Misi</h2>
                                     <p className="paragraph visimisi">
-                                    Mengabdi untuk rakyat, bangsa dan negara Indonesia karena Allah, dengan meningkatkan kesejahteraan rakyat warga Kebumen, Banjarnegara dan Purbalinggga.
+                                    Mengabdi karena Allah untuk rakyat, bangsa dan negara Indonesia, dengan meningkatkan kesejahteraan rakyat warga Kebumen, Banjarnegara dan Purbalinggga.
                                     </p>    
                             </div> 
 
@@ -67,7 +65,6 @@ class Profile extends Component {
                                 <h2 className="title">Mengapa Memilih Fariani Sebagai Wakil Rakyat?</h2>
                                     <p className="paragraph">
                                     Bagi Fariani, politik adalah kehidupan spiritual. Dibutuhkan empati yang dikaruniakan Tuhan kedalam hati seseorang untuk merasakan detak jantung masyarakat sehari-hari, agar bisa menyerap aspirasi untuk diperjuangkan. Dengan bekal latar belakang kehidupan yang seimbang : jiwa spiritualis dan semangat amanah Tuhan yamg membara, berbadan sehat, pendidikan dan karakter yang matang, keluarga utuh dan harmonis, pengalaman dan wawasan politik, visi misi, maka warga Jawa Tengah 7 yang meliputi Kabupaten Kebumen, Banjarnegara dan Purbalingga membutuhkan kapasitas sosok seperti Fariani agar aspirasinya dapat diserap dan diimplementasikan secara maksimal.
-
                                     </p>
                             </div> 
 

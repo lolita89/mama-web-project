@@ -6,6 +6,12 @@
   padding-left: 20px;
 }
 
+mark {
+  background-color: transparent;
+  font-weight: bold;
+  color: #01389D;
+}
+
 .visimisi {
   text-align: center;
 }
