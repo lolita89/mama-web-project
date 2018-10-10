@@ -18,10 +18,21 @@
 
  .font-awesome {
      color: $color-text-demokrat;
+     display: inline-flex;
+     width: 35px;
+     height: 35px;
+     cursor: pointer;
+     border-radius: 2px;
+ 
      font-size: 30px;
+     color: $color-text-demokrat;
+     text-align: center;
+     line-height: 35px;
+ 
+     margin-right: 15px;
+     margin-bottom: 5px;
  }
 
  .font-awesome:hover {
     color: $color-secondary;
-    font-size: 30px;
 }

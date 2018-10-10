@@ -18,8 +18,8 @@ class Contact extends Component {
             <div className="footer">
 
                 <div className="socmed">
-                    <a title="facebook" href={this.state.facebook}><FontAwesomeIcon className="font-awesome" icon={faFacebook}/> </a>
                     <a title="instagram" href={this.state.instagram}><FontAwesomeIcon className="font-awesome" icon={faInstagram}/></a>
+                    <a title="facebook" href={this.state.facebook}><FontAwesomeIcon className="font-awesome" icon={faFacebook}/></a>
                 </div>
 
                 <span> &copy; Copyright 2018 by Cika </span>
