@@ -3,13 +3,13 @@ Body {
 }
 
 .jumbotron {
-  color: #E1E4EB;
+  color: #47B8D6;
   background-color: #01389D;
 }
 
 .jumbotron:hover {
   color: #01389D;
-  background-color: #47B8D6;
+  background-color: #E1E4EB;
   cursor: pointer;
 }
 /*# sourceMappingURL=banner.css.map */
